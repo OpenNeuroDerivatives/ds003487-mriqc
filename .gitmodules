@@ -4,7 +4,7 @@
 	datalad-id = b02e63c2-62c1-11e9-82b0-52540040489c
 [submodule "sourcedata/raw"]
 	path = sourcedata/raw
-	url = https://github.com/OpenNeuroDatasets/ds003487.git
+	url = https://github.com/OpenNeuroDatasets/.git
 	datalad-id = 745c5338-5bd7-4ab1-9c11-978012e34931
 [submodule "sourcedata/templateflow"]
 	path = sourcedata/templateflow
