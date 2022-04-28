@@ -8,7 +8,7 @@
 	datalad-id = 745c5338-5bd7-4ab1-9c11-978012e34931
 [submodule "sourcedata/templateflow"]
 	path = sourcedata/templateflow
-	url = /scratch1/03201/jbwexler/openneuro_derivatives/templateflow
+	url = https://github.com/templateflow/templateflow.git
 	datalad-id = c79c47b6-d0fb-11e8-aa11-64006a8a730f
 [submodule "code/tacc-openneuro"]
 	path = code/tacc-openneuro
