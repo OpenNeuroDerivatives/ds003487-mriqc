@@ -1,0 +1,17 @@
+Warning: Permanently added 'c180-111' (ED25519) to the list of known hosts.
+Warning: Permanently added 'c182-193' (ED25519) to the list of known hosts.
+Warning: Permanently added 'c183-091' (ED25519) to the list of known hosts.
+Warning: Permanently added 'c185-072' (ED25519) to the list of known hosts.
+Warning: Permanently added 'c187-124' (ED25519) to the list of known hosts.
+WARNING (02/19/22 03:02:05): LAUNCHER_WORKDIR variable not set. Using current directory.
+using /tmp/launcher.4060148.hostlist.sZXxvLqd to get hosts
+starting job on c180-111
+starting job on c182-193
+starting job on c183-091
+starting job on c185-072
+starting job on c187-124
+hostfile_replace_entries: link /home1/03201/jbwexler/.ssh/known_hosts to /home1/03201/jbwexler/.ssh/known_hosts.old: File exists
+update_known_hosts: hostfile_replace_entries failed for /home1/03201/jbwexler/.ssh/known_hosts: File exists
+hostfile_replace_entries: link /home1/03201/jbwexler/.ssh/known_hosts to /home1/03201/jbwexler/.ssh/known_hosts.old: No such file or directory
+update_known_hosts: hostfile_replace_entries failed for /home1/03201/jbwexler/.ssh/known_hosts: No such file or directory
+Terminated
